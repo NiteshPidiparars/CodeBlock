@@ -1,0 +1,3 @@
+Name: Nitesh pidiparas
+Class: CSE
+Subject: Coad

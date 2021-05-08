@@ -1,0 +1,4 @@
+<Connector port="8443" protocol="HTTP/1.1" SSLEnabled="true"
+           maxThreads="150" schema="https" secure="true"
+           keystoreFile="tomcat.ks" keystorePass="nitesh@19"
+           clientAuth="false" sslProtocol="TLS" />
